@@ -3,8 +3,11 @@
 **Mapping the Housing Crisis: Regional Trends Across All 26 Counties**
 
 [![R](https://img.shields.io/badge/R-4.0+-blue.svg)](https://www.r-project.org/)
+[![ggplot2](https://img.shields.io/badge/ggplot2-tidyverse-green.svg)](#)
 [![RMarkdown](https://img.shields.io/badge/R%20Markdown-HTML%2FPDF-orange.svg)](#)
+[![Data](https://img.shields.io/badge/Data-26%20counties-lightblue.svg)](#-data-source)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](#)
+[![License](https://img.shields.io/badge/License-CC0-lightgrey.svg)](#-data-source)
 
 ---
 
